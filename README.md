@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://weclouddata.com/wp-content/uploads/2022/06/WCD-Logo.svg">
-</p>
-
 # Pre-requisites:
 
 - Basic knowledge of Git and Github.
@@ -11,13 +7,13 @@
 # Intro
 ![](./images/Overview.png)
 
-Join WeCloudData to complete a DevOps mini project! In this 3-part workshop series you will learn:
+In this 3-part project series I learnt:
 
 - How to work with cloud infrastructures like AWS VPC and EC2 instances with Terraform.
 - How to install and config Git, Python and Docker in the two EC2 instances with Ansible.
 - How to create a CI/CD pipeline that deploys your application automatically to the EC2 instances when there’s a new push/merge in the main branch of your Github.
 
-We will spend the three workshops together to complete this mini project. In each workshop we are going to introduce a tool, do a live demo of how it works and show what can be done with it.
+It consist of three mini-projects. In each mini-project I used a different tool
 
 # DevOps Mini-Project (Part 1): IaC with Terraform
 
